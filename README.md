@@ -1,2 +1,2 @@
 # KeyCapture
-A keylogger
+ A keylogger for linux systems ... 
